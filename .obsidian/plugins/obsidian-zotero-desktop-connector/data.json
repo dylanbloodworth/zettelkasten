@@ -1,0 +1,23 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "reference-notes",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "citation",
+      "format": "formatted-citation",
+      "cslStyle": "american-institute-of-physics"
+    },
+    {
+      "name": "bib",
+      "format": "formatted-bibliography",
+      "cslStyle": "american-institute-of-physics"
+    }
+  ],
+  "exportFormats": [],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

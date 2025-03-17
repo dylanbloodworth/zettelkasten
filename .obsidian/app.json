@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "vimMode": false
+}

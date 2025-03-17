@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Excalidraw",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:main-notes  ",
+      "color": {
+        "a": 1,
+        "rgb": 15388262
+      }
+    },
+    {
+      "query": "path:reference-notes  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:sleeping  ",
+      "color": {
+        "a": 1,
+        "rgb": 13092807
+      }
+    },
+    {
+      "query": "path:_mocs  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.76594010497067,
+  "lineSizeMultiplier": 0.533572090151281,
+  "collapse-forces": false,
+  "centerStrength": 0.62639405204461,
+  "repelStrength": 12.8162667567872,
+  "linkStrength": 1,
+  "linkDistance": 102,
+  "scale": 0.24602128889456631,
+  "close": true
+}

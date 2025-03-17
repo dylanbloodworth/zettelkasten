@@ -1,0 +1,1 @@
+in mickey 17, mickey 17 learns that mickey 18 is alive and becomes more fearful about death. He believes that he's not the one that will continue being printed, even though 'it's him.' What does it mean to the real you?

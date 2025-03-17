@@ -1,0 +1,1 @@
+i don't think i particularly agree with this. i don't think people need to embrace things the may feel are negative in their lives

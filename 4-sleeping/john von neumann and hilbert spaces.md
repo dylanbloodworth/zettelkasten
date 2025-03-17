@@ -1,0 +1,1 @@
+see https://en.wikipedia.org/wiki/Mathematical_Foundations_of_Quantum_Mechanics
