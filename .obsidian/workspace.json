@@ -11,10 +11,22 @@
             "id": "147fbd166feffbb4",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
+=======
+              "type": "markdown",
+              "state": {
+                "file": "3-main-notes/3.1a4 Shame seems more common than guilt in my experience..md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1a4 Shame seems more common than guilt in my experience."
+>>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
             }
           }
         ]
@@ -84,6 +96,10 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "3-main-notes/3.1a4 Shame seems more common than guilt in my experience..md",
+>>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Excalidraw  ",
@@ -133,7 +149,11 @@
                 }
               },
               "icon": "lucide-git-fork",
+<<<<<<< HEAD
               "title": "Graph view"
+=======
+              "title": "Graph of 3.1a4 Shame seems more common than guilt in my experience."
+>>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
             }
           },
           {
@@ -185,12 +205,20 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "3-main-notes/3.1a4 Shame seems more common than guilt in my experience..md",
+>>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Outline"
+=======
+              "title": "Outline of 3.1a4 Shame seems more common than guilt in my experience."
+>>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
             }
           }
         ]
@@ -206,6 +234,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "3-main-notes/3.1a4 Shame seems more common than guilt in my experience..md",
+>>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -215,7 +247,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks"
+=======
+              "title": "Backlinks for 3.1a4 Shame seems more common than guilt in my experience."
+>>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
             }
           }
         ]
@@ -237,6 +273,7 @@
   },
   "active": "147fbd166feffbb4",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "1-inbox/trying to optimize the minutiae of how to learn takes away from the actual learning.md",
     "1-inbox/do we ever come up with original thoughts when we take in inputs.md",
     "1-inbox/what does it mean to be creative.md",
@@ -263,6 +300,34 @@
     "3-main-notes/2.1a2 Creating art is not motivated purely by egoism.md",
     "1-inbox/headphones are an excuse to disconnect from the world, even when it might not be needed.md",
     "1-inbox/making comments about what the reading makes you feel.md",
+=======
+    "1-inbox/im playing minecraft and looking at people on instagram having actual lives.md",
+    "3-main-notes/3.1a4 Shame seems more common than guilt in my experience..md",
+    "3-main-notes/3.1a4a Blaming internal factors seems more difficult to regulate and heal..md",
+    "1-inbox/what does it mean to be the real you.md",
+    "1-inbox/we are vessels of skills for companies to use.md",
+    "3-main-notes/3.1a4a1  Self-criticism can be a person's biggest life hurdle.md",
+    "3-main-notes/3.2a Shame gives more to people to control the reasoning for events.md",
+    "3-main-notes/3.2 'What purpose does shame serve me' questions the benefit of shame in prior experiences.md",
+    "3-main-notes/3.3 Experiences with suicide are socially isolating regardless of efforts to normalize discussions around mental health.md",
+    "3-main-notes/3.2a1 Criticism initially takes control away from an individual experiencing a negative event..md",
+    "_mocs/self-consciousness.md",
+    "3-main-notes/3.1a Shame and guilt attribute negative events to the self..md",
+    "3-main-notes/3.1a3 Guilt can naturally progress into shame.md",
+    "3-main-notes/3.1a3a 'I feel guilty for being supported by my family' leads naturally into shame.md",
+    "3-main-notes/3.1 I create shame, it's never forced upon me by someone else..md",
+    "3-main-notes/2.1a2a1 Art is egotistical by nature of self-exploration.md",
+    "3-main-notes/2.1a1 Essays aren't egotistical if you never publish.md",
+    "3-main-notes/2.1a2 Creating art is not motivated purely by egoism.md",
+    "3-main-notes/2.1a2a Being perceived as egotistical in writing makes me less motivated.md",
+    "_mocs/methodologies for learning.md",
+    "2-reference-notes/dotoSystemWriting2024.md",
+    "_mocs/1-hub-notes.md",
+    "3-main-notes/2.1b Internal factors are the source of motivation for external actions.md",
+    "3-main-notes/3.1a3a1 Re-attribute shame to something more emotional adaptable like guilt.md",
+    "3-main-notes/Keep track of sense-making with high level structure.md",
+    "3-main-notes/6.1b2 Enjoy the process of working on something instead of the end result.md",
+>>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
     "_mocs",
     "styles/config/vocabularies/Authors/reject.txt",
     "styles/config/vocabularies/Authors/accept.txt",
