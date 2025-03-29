@@ -99,5 +99,13 @@
       ],
       "key": "\\"
     }
+  ],
+  "languagetool:check": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }

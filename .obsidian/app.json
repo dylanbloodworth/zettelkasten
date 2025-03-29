@@ -3,6 +3,8 @@
   "showLineNumber": true,
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "inbox",
-  "vimMode": false
+  "newFileFolderPath": "1-inbox",
+  "vimMode": false,
+  "attachmentFolderPath": "/",
+  "trashOption": "none"
 }

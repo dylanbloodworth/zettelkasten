@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ff5418b072330eb9",
+        "id": "c100fe1c57b0c66c",
         "type": "tabs",
         "children": [
           {
-            "id": "df975c7575af3361",
+            "id": "147fbd166feffbb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-main-notes/3.1a4a Blaming internal factors seems more difficult to regulate and heal..md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3.1a4a Blaming internal factors seems more difficult to regulate and heal."
+              "title": "New tab"
             }
           }
         ]
@@ -89,7 +84,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-main-notes/3.1a4a Blaming internal factors seems more difficult to regulate and heal..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Excalidraw  ",
@@ -139,7 +133,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 3.1a4a Blaming internal factors seems more difficult to regulate and heal."
+              "title": "Graph view"
             }
           },
           {
@@ -178,12 +172,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-inbox/what does it mean to be the real you.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from what does it mean to be the real you"
+              "title": "Outgoing links"
             }
           },
           {
@@ -192,17 +185,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-main-notes/3.1a4a Blaming internal factors seems more difficult to regulate and heal..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.1a4a Blaming internal factors seems more difficult to regulate and heal."
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e4d027a9406f0190",
@@ -215,17 +206,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-main-notes/3.1a4a Blaming internal factors seems more difficult to regulate and heal..md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3.1a4a Blaming internal factors seems more difficult to regulate and heal."
+              "title": "Backlinks"
             }
           }
         ]
@@ -245,34 +235,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df975c7575af3361",
+  "active": "147fbd166feffbb4",
   "lastOpenFiles": [
-    "1-inbox/what does it mean to be the real you.md",
-    "1-inbox/we are vessels of skills for companies to use.md",
-    "3-main-notes/3.1a4a Blaming internal factors seems more difficult to regulate and heal..md",
-    "3-main-notes/3.1a4a1  Self-criticism can be a person's biggest life hurdle.md",
-    "3-main-notes/3.2a Shame gives more to people to control the reasoning for events.md",
-    "3-main-notes/3.2 'What purpose does shame serve me' questions the benefit of shame in prior experiences.md",
-    "3-main-notes/3.3 Experiences with suicide are socially isolating regardless of efforts to normalize discussions around mental health.md",
-    "3-main-notes/3.2a1 Criticism initially takes control away from an individual experiencing a negative event..md",
-    "_mocs/self-consciousness.md",
-    "3-main-notes/3.1a4 Shame seems more common than guilt in my experience..md",
-    "3-main-notes/3.1a Shame and guilt attribute negative events to the self..md",
-    "3-main-notes/3.1a3 Guilt can naturally progress into shame.md",
-    "3-main-notes/3.1a3a 'I feel guilty for being supported by my family' leads naturally into shame.md",
-    "3-main-notes/3.1 I create shame, it's never forced upon me by someone else..md",
-    "3-main-notes/2.1a2a1 Art is egotistical by nature of self-exploration.md",
-    "3-main-notes/2.1a1 Essays aren't egotistical if you never publish.md",
-    "3-main-notes/2.1a2 Creating art is not motivated purely by egoism.md",
-    "3-main-notes/2.1a2a Being perceived as egotistical in writing makes me less motivated.md",
-    "_mocs/methodologies for learning.md",
-    "2-reference-notes/dotoSystemWriting2024.md",
-    "_mocs/1-hub-notes.md",
-    "3-main-notes/2.1b Internal factors are the source of motivation for external actions.md",
-    "3-main-notes/3.1a3a1 Re-attribute shame to something more emotional adaptable like guilt.md",
-    "3-main-notes/Keep track of sense-making with high level structure.md",
+    "1-inbox/trying to optimize the minutiae of how to learn takes away from the actual learning.md",
+    "1-inbox/do we ever come up with original thoughts when we take in inputs.md",
+    "1-inbox/what does it mean to be creative.md",
+    "3-main-notes/6.1a 'Am I wasting time' examines the value of time and upholds the importance of productivity..md",
+    "1-inbox/try to find a job doing what you spend all of your time doing anyways. there's no point in trying to figure out how to spend your life on something that you don't think about every single day.md",
+    "1-inbox/is the purpose of education to prepare students for the workforce.md",
+    "1-inbox/what influences people to change their social perspectives.md",
+    "1-inbox/breaks from work should be less cognitively stimulating than the work itself.md",
+    "1-inbox/find the times in your days when you're the most aware and willing to work on high priority tasks.md",
+    "4-sleeping/if i make a measurement of the field at some particular point in space, does quantum field theory suppose I know the field globally. or does a single field point value not unique distinguish the global field.md",
+    "1-inbox/chatgpt seems to useful in getting people to engage through dialogue?.md",
+    "3-main-notes/7.1a1 'Why read a book instead of scroll social media' questions our value systems for experiential stimuli.md",
+    "3-main-notes/7.1a Curating the consumption of useful media encourages thoughtful projects.md",
+    "3-main-notes/7.1 Empiricism supports the claim that creation is only sourced from consumption.md",
     "3-main-notes/6.1b2 Enjoy the process of working on something instead of the end result.md",
-    "3-main-notes/1.3c Atomicity creates highly versatile ideas.md",
+    "3-main-notes/6.1b1a Steinbeck argues against rewrites in progress in your workflow.md",
+    "3-main-notes/1.2 My revision process is local.md",
+    "_mocs/self-consciousness.md",
+    "_mocs/1-hub-notes.md",
+    "_mocs/methodologies for learning.md",
+    "3-main-notes/1.5 Keep track of sense-making with high level structure.md",
+    "3-main-notes/1.4 Alphanumerical systems of note taking point to areas of complexity.md",
+    "3-main-notes/2.1a2a Being perceived as egotistical in writing makes me less motivated.md",
+    "3-main-notes/2.1a2 Creating art is not motivated purely by egoism.md",
+    "1-inbox/headphones are an excuse to disconnect from the world, even when it might not be needed.md",
+    "1-inbox/making comments about what the reading makes you feel.md",
     "_mocs",
     "styles/config/vocabularies/Authors/reject.txt",
     "styles/config/vocabularies/Authors/accept.txt",
