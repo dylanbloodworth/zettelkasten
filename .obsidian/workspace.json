@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c197ec8d64d68acd",
+        "id": "ff187ab42e2c3f15",
         "type": "tabs",
         "children": [
           {
-            "id": "a14574b2ed7f4fb5",
+            "id": "616fc7d60a16b40f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-inbox/fleeting notes are not useful on their own.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "fleeting notes are not useful on their own"
+              "title": "New tab"
             }
           }
         ]
@@ -95,12 +90,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-inbox/fleeting notes are not useful on their own.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from fleeting notes are not useful on their own"
+              "title": "Outgoing links"
             }
           },
           {
@@ -145,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-inbox/fleeting notes are not useful on their own.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for fleeting notes are not useful on their own"
+              "title": "Backlinks"
             }
           }
         ]
@@ -175,8 +168,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a14574b2ed7f4fb5",
+  "active": "616fc7d60a16b40f",
   "lastOpenFiles": [
+    "1-inbox/fleeting notes are not useful on their own.md",
     "3-main-notes/1.6 Taking a note captures that brief moment of curiosity.md",
     "1-inbox/1.6a i forget too many things.md",
     "3-main-notes/1.3c1 Simple ideas are given weight by their connections to other ideas.md",
@@ -202,7 +196,6 @@
     "4-sleeping/critical consciousness as the meaning of being educated according to Freire.md",
     "3-main-notes/6.1b3 Plan work around the times in the day when we often feel motivated.md",
     "4-sleeping/chatgpt seems to useful in getting people to engage through dialogue?.md",
-    "4-sleeping/bank vs problem posing models of education.md",
     "reference-notes"
   ]
 }
