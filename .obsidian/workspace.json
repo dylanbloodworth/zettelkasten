@@ -1,32 +1,25 @@
 {
   "main": {
-    "id": "ee2c9c281b88bedb",
+    "id": "34911cce35824764",
     "type": "split",
     "children": [
       {
-        "id": "c100fe1c57b0c66c",
+        "id": "8befa0252ae1e734",
         "type": "tabs",
         "children": [
           {
-            "id": "147fbd166feffbb4",
+            "id": "a55acf63260e6765",
             "type": "leaf",
             "state": {
-<<<<<<< HEAD
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-=======
               "type": "markdown",
               "state": {
-                "file": "3-main-notes/3.1a4 Shame seems more common than guilt in my experience..md",
-                "mode": "preview",
+                "file": "2-reference-notes/Levels of Reading.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3.1a4 Shame seems more common than guilt in my experience."
->>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
+              "title": "Levels of Reading"
             }
           }
         ]
@@ -35,21 +28,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d88db7953b8542ff",
+    "id": "a1d6dbf6cded890d",
     "type": "split",
     "children": [
       {
-        "id": "9089478478cb938e",
+        "id": "e5301bdd4ffc0d1b",
         "type": "tabs",
-        "dimension": 60.20408163265306,
         "children": [
           {
-            "id": "6e501c913d1a0a3d",
+            "id": "42c30c54b673916b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -57,12 +49,12 @@
             }
           },
           {
-            "id": "d1f048a3d98d65f6",
+            "id": "8d10161499ff272b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ideas_that",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +66,7 @@
             }
           },
           {
-            "id": "8c98ac197f2e7f26",
+            "id": "838aca4c35d2d1fd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,186 +76,93 @@
             }
           }
         ]
-      },
-      {
-        "id": "5da757a0305b44a5",
-        "type": "tabs",
-        "dimension": 39.795918367346935,
-        "children": [
-          {
-            "id": "b2a8a73e6b05eeb6",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-<<<<<<< HEAD
-=======
-                "file": "3-main-notes/3.1a4 Shame seems more common than guilt in my experience..md",
->>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
-                "options": {
-                  "collapse-filter": true,
-                  "search": "-path:Excalidraw  ",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:main-notes  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 15388262
-                      }
-                    },
-                    {
-                      "query": "path:reference-notes  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11361494
-                      }
-                    },
-                    {
-                      "query": "path:sleeping  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 13092807
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.251210994705419,
-                  "repelStrength": 11.4408020727723,
-                  "linkStrength": 1,
-                  "linkDistance": 202,
-                  "scale": 0.28913541687059374,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-<<<<<<< HEAD
-              "title": "Graph view"
-=======
-              "title": "Graph of 3.1a4 Shame seems more common than guilt in my experience."
->>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
-            }
-          },
-          {
-            "id": "7f57123ab8e48f0b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 471.0004348754883
+    "width": 300
   },
   "right": {
-    "id": "6ee37d07afcaceab",
+    "id": "ddd9f1b1801de9bb",
     "type": "split",
     "children": [
       {
-        "id": "58ce70c1086a1f58",
+        "id": "a43651797b17eb70",
         "type": "tabs",
-        "dimension": 33.65155131264916,
         "children": [
           {
-            "id": "306f83425685a8cf",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "310968c5bd366943",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< HEAD
-=======
-                "file": "3-main-notes/3.1a4 Shame seems more common than guilt in my experience..md",
->>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "Outline"
-=======
-              "title": "Outline of 3.1a4 Shame seems more common than guilt in my experience."
->>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
-            }
-          }
-        ]
-      },
-      {
-        "id": "e4d027a9406f0190",
-        "type": "tabs",
-        "dimension": 66.34844868735084,
-        "children": [
-          {
-            "id": "3ed56f46530ed3d1",
+            "id": "31e19653ff5bf9ff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "3-main-notes/3.1a4 Shame seems more common than guilt in my experience..md",
->>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "2-reference-notes/adlerHowReadBook2011.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "Backlinks"
-=======
-              "title": "Backlinks for 3.1a4 Shame seems more common than guilt in my experience."
->>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
+              "title": "Backlinks for adlerHowReadBook2011"
+            }
+          },
+          {
+            "id": "226488489e51a2b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2-reference-notes/adlerHowReadBook2011.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from adlerHowReadBook2011"
+            }
+          },
+          {
+            "id": "c1d5966402a00fc5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "be0bd99f044b9d65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2-reference-notes/adlerHowReadBook2011.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of adlerHowReadBook2011"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 335
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -271,72 +170,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "147fbd166feffbb4",
+  "active": "42c30c54b673916b",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "1-inbox/trying to optimize the minutiae of how to learn takes away from the actual learning.md",
-    "1-inbox/do we ever come up with original thoughts when we take in inputs.md",
-    "1-inbox/what does it mean to be creative.md",
-    "3-main-notes/6.1a 'Am I wasting time' examines the value of time and upholds the importance of productivity..md",
-    "1-inbox/try to find a job doing what you spend all of your time doing anyways. there's no point in trying to figure out how to spend your life on something that you don't think about every single day.md",
-    "1-inbox/is the purpose of education to prepare students for the workforce.md",
-    "1-inbox/what influences people to change their social perspectives.md",
-    "1-inbox/breaks from work should be less cognitively stimulating than the work itself.md",
-    "1-inbox/find the times in your days when you're the most aware and willing to work on high priority tasks.md",
-    "4-sleeping/if i make a measurement of the field at some particular point in space, does quantum field theory suppose I know the field globally. or does a single field point value not unique distinguish the global field.md",
-    "1-inbox/chatgpt seems to useful in getting people to engage through dialogue?.md",
-    "3-main-notes/7.1a1 'Why read a book instead of scroll social media' questions our value systems for experiential stimuli.md",
-    "3-main-notes/7.1a Curating the consumption of useful media encourages thoughtful projects.md",
-    "3-main-notes/7.1 Empiricism supports the claim that creation is only sourced from consumption.md",
-    "3-main-notes/6.1b2 Enjoy the process of working on something instead of the end result.md",
-    "3-main-notes/6.1b1a Steinbeck argues against rewrites in progress in your workflow.md",
-    "3-main-notes/1.2 My revision process is local.md",
-    "_mocs/self-consciousness.md",
-    "_mocs/1-hub-notes.md",
-    "_mocs/methodologies for learning.md",
-    "3-main-notes/1.5 Keep track of sense-making with high level structure.md",
-    "3-main-notes/1.4 Alphanumerical systems of note taking point to areas of complexity.md",
-    "3-main-notes/2.1a2a Being perceived as egotistical in writing makes me less motivated.md",
-    "3-main-notes/2.1a2 Creating art is not motivated purely by egoism.md",
-    "1-inbox/headphones are an excuse to disconnect from the world, even when it might not be needed.md",
-    "1-inbox/making comments about what the reading makes you feel.md",
-=======
-    "1-inbox/im playing minecraft and looking at people on instagram having actual lives.md",
-    "3-main-notes/3.1a4 Shame seems more common than guilt in my experience..md",
-    "3-main-notes/3.1a4a Blaming internal factors seems more difficult to regulate and heal..md",
-    "1-inbox/what does it mean to be the real you.md",
-    "1-inbox/we are vessels of skills for companies to use.md",
-    "3-main-notes/3.1a4a1  Self-criticism can be a person's biggest life hurdle.md",
-    "3-main-notes/3.2a Shame gives more to people to control the reasoning for events.md",
-    "3-main-notes/3.2 'What purpose does shame serve me' questions the benefit of shame in prior experiences.md",
-    "3-main-notes/3.3 Experiences with suicide are socially isolating regardless of efforts to normalize discussions around mental health.md",
-    "3-main-notes/3.2a1 Criticism initially takes control away from an individual experiencing a negative event..md",
-    "_mocs/self-consciousness.md",
-    "3-main-notes/3.1a Shame and guilt attribute negative events to the self..md",
-    "3-main-notes/3.1a3 Guilt can naturally progress into shame.md",
-    "3-main-notes/3.1a3a 'I feel guilty for being supported by my family' leads naturally into shame.md",
-    "3-main-notes/3.1 I create shame, it's never forced upon me by someone else..md",
-    "3-main-notes/2.1a2a1 Art is egotistical by nature of self-exploration.md",
-    "3-main-notes/2.1a1 Essays aren't egotistical if you never publish.md",
-    "3-main-notes/2.1a2 Creating art is not motivated purely by egoism.md",
-    "3-main-notes/2.1a2a Being perceived as egotistical in writing makes me less motivated.md",
-    "_mocs/methodologies for learning.md",
+    "2-reference-notes/adlerHowReadBook2011.md",
     "2-reference-notes/dotoSystemWriting2024.md",
-    "_mocs/1-hub-notes.md",
-    "3-main-notes/2.1b Internal factors are the source of motivation for external actions.md",
-    "3-main-notes/3.1a3a1 Re-attribute shame to something more emotional adaptable like guilt.md",
-    "3-main-notes/Keep track of sense-making with high level structure.md",
-    "3-main-notes/6.1b2 Enjoy the process of working on something instead of the end result.md",
->>>>>>> f5336c168b72288ca8987f93c69a2a8b1ca21069
-    "_mocs",
-    "styles/config/vocabularies/Authors/reject.txt",
-    "styles/config/vocabularies/Authors/accept.txt",
-    "styles/config/vocabularies/Authors",
-    "styles/config/vocabularies",
-    "styles/config/ignore/ignore.yml",
-    "styles/config/ignore/ignore1.txt",
-    "styles/config/ignore/ignore.yaml~",
-    "styles/config/ignore/ignore.yaml",
-    "styles/config/ignore/ignore.yamlk"
+    "2-reference-notes/huxleyTheIsland.md",
+    "reference-notes/adlerHowReadBook2011.md",
+    "2-reference-notes/Levels of Reading.md",
+    "reference-notes",
+    "2-reference-notes/klausDepthEssayistsOur1993.md",
+    "2-reference-notes/whiteTheEssayistAndTheEssay.md",
+    "3-main-notes/1.4 Alphanumerical systems of note taking point to areas of complexity.md"
   ]
 }

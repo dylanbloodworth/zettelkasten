@@ -8,7 +8,9 @@
     "pt": "pt-PT",
     "ca": "ca-ES"
   },
-  "dictionary": [],
+  "dictionary": [
+    "Doren"
+  ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": false,
