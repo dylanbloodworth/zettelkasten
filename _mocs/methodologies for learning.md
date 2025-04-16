@@ -17,3 +17,4 @@ External scaffolding ................ [[4.1 People's minds require external scaf
 Dialogic engagement ............... [[4.1a1 Student and teacher co-create knowledge through dialogue|4.1a1]]
 
 Flow ................................... [[6.1b Seek to find a flow state to make work both more enjoyable and effortless to you.|6.1b]]
+	worries of productivity .... [[6.2 Researching methods to implement in an efficient workflow takes time away from accomplishing the work|6.2]]
