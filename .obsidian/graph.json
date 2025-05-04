@@ -11,7 +11,7 @@
       "query": "path:main-notes  ",
       "color": {
         "a": 1,
-        "rgb": 15388262
+        "rgb": 16001615
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 12.8162667567872,
   "linkStrength": 1,
   "linkDistance": 102,
-  "scale": 0.46181554373111244,
+  "scale": 0.4441037456070648,
   "close": true
 }

@@ -18,17 +18,13 @@ The book introduces the four levels of reading, then subsequent chapters go furt
 
 [Go to annotation](zotero://open-pdf/library/items/J54AW9QC?page=xi&annotation=6AJ5YFCG) “But put him up against a closely written exposition, a carefully and economically stated argument, or a passage requiring critical consideration, and he is at a loss."  :)
 
-[Go to annotation](zotero://open-pdf/library/items/J54AW9QC?page=4&annotation=MV2MC2E2) “The packaging of intellectual positions and views is one of the most active enterprises of some of the best minds of our day. The viewer of television, the listener to radio, the reader of magazines, is presented with a whole complex of elements—all the way from ingenious rhetoric to carefully selected "data and statistics—to make it easy for him to “make up his own mind” with the minimum of difficulty and effort.” ([Adler and Doren, 2011, p. 4](zotero://select/library/items/6JTYTVIF)) (ZK) difficulty of reading compared to tv
+[Go to annotation](zotero://open-pdf/library/items/J54AW9QC?page=4&annotation=MV2MC2E2) “The packaging of intellectual positions and views is one of the most active enterprises of some of the best minds of our day. The viewer of television, the listener to radio, the reader of magazines, is presented with a whole complex of elements—all the way from ingenious rhetoric to carefully selected "data and statistics—to make it easy for him to “make up his own mind” with the minimum of difficulty and effort.” ([Adler and Doren, 2011, p. 4](zotero://select/library/items/6JTYTVIF)) (ZK) difficulty of reading compared to TV
 
 [Go to annotation](zotero://open-pdf/library/items/J54AW9QC?page=5&annotation=YPPPUGWM) “the more active the reading the better. One reader is better than another in proportion as he is capable of a greater range of activity in reading and exerts more effort. He is better if he demands more of himself and of the text before him.” ([Adler and Doren, 2011, p. 5](zotero://select/library/items/6JTYTVIF)) *
 
 [Go to annotation](zotero://open-pdf/library/items/J54AW9QC?page=5&annotation=4DYCEB5E) “Catching the ball is just as much an activity as pitching or hitting it. The pitcher or batter is the sender in the sense that his activity initiates the motion of the ball. The catcher or fielder is the receiver in the sense that his activity terminates it. Both are active, though the activities are different. If anything is passive, it is the ball. It is the inert thing that is put in motion or stopped, whereas the players are active, moving to pitch, hit, or catch. The analogy with writing and reading is almost perfect. The thing that is written and read, like the ball, is the passive object common to the two activities that begin and terminate the process.  
   
-  
-  
 We can take this analogy a step further. The art of catching is the skill of catching every kind of pitch—fast balls and curves, changeups and knucklers. Similarly, the art of reading is the skill of catching every sort of communication as well as possible.  
-  
-  
   
 It is noteworthy that the pitcher and catcher are successful only to the extent that they cooperate. The relation of writer and reader is similar. The writer isn’t trying not to be caught, although it sometimes seems so. Successful communication occurs in any case where what the writer wanted to have received finds its way into the reader’s possession. The writer’s skill and the reader’s skill converge upon a common end.  
   

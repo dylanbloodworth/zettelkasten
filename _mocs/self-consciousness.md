@@ -4,7 +4,7 @@ tags:
 ---
 [[1-hub-notes|return to hub-notes]]
 
----
+
 ## Guilt and Shame
 
 Shame is self-imposed ......... [[3.1 I create shame, it's never forced upon me by someone else.|3.1]]
@@ -17,9 +17,12 @@ Emotional regulation ........... [[3.1a3a1 Re-attribute shame to something more 
 
 Benefits of shame ................ [[3.2a Shame gives more to people to control the reasoning for events|3.2a]]
 
----
 ## Egoism
 
 Egoism in art ..................  [[2.1a2 Creating art is not motivated purely by egoism|2.12]], [[2.1a2a1 Art is egotistical by nature of self-exploration|2.1a2a1]]
 
 Perceptions .................... [[2.1a2a Being perceived as egotistical in writing makes me less motivated|2.1a2a]]
+
+## Relationships
+
+Constructed contextually ............ [[2.1b1a The self is contextually constructed through relationships.|2.1b1a]], [[2.1b1a2 Nishitani claims things have no permanent self or essence, only relations|2.1b1a]] 

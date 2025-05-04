@@ -1,0 +1,3 @@
+- [ ] Finish Note-Taking note
+	- [ ] Synthesis of ideas
+	- [ ] Atomic notes (pros & cons?)
