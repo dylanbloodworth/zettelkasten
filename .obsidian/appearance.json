@@ -5,5 +5,7 @@
   "textFontFamily": "Verdana",
   "interfaceFontFamily": "Inter",
   "baseFontSize": 16,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "zoom"
+  ]
 }

@@ -139,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-inbox/atomic notes to restrictive?.md",
+                "file": "1-notes/Notes_and_Note-Taking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from atomic notes to restrictive?"
+              "title": "Outgoing links from Notes_and_Note-Taking"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-inbox/atomic notes to restrictive?.md",
+                "file": "1-notes/Notes_and_Note-Taking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for atomic notes to restrictive?"
+              "title": "Backlinks for Notes_and_Note-Taking"
             }
           }
         ]
@@ -219,11 +219,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4d640d365579f217",
+  "active": "4c67ea3d7b85a41d",
   "lastOpenFiles": [
+    "4-inbox/atomic notes to restrictive?.md",
     "4-inbox/making comments about what the reading makes you feel.md",
     "1-notes/Notes_and_Note-Taking.md",
-    "4-inbox/atomic notes to restrictive?.md",
     "Todo.md",
     "2-atoms/1.6 Taking a note captures that brief moment of curiosity.md",
     "3-literature/dotoSystemWriting2024.md",
