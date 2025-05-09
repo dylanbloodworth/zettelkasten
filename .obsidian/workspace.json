@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypermedia Systems.md",
+                "file": "3-literature/Hypermedia_Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hypermedia Systems"
+              "title": "Hypermedia_Systems"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hypermedia Systems.md",
+                "file": "3-literature/Hypermedia_Systems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hypermedia Systems"
+              "title": "Outline of Hypermedia_Systems"
             }
           }
         ],
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hypermedia Systems.md",
+                "file": "3-literature/Hypermedia_Systems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hypermedia Systems"
+              "title": "Backlinks for Hypermedia_Systems"
             }
           }
         ]
@@ -207,10 +207,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a2b89168220875a4",
+  "active": "42c30c54b673916b",
   "lastOpenFiles": [
     "3-literature/Freire-Pedagogy_of_the_Opressed.md",
-    "Hypermedia Systems.md",
+    "3-literature/Hypermedia_Systems.md",
     "3-literature/Levels of Reading.md",
     "3-literature/adlerHowReadBook2011.md",
     "3-literature/klausDepthEssayistsOur1993.md",
