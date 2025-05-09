@@ -13,12 +13,19 @@
     "comment",
     "Doren",
     "Doto",
+    "HDA",
+    "HDAs",
+    "href",
+    "htmx",
     "Nishitani",
+    "REpresentational",
+    "SPAs",
     "Śūnyatā"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": false,
   "synonyms": "en",
-  "motherTongue": "en"
+  "motherTongue": "en",
+  "staticLanguage": "en-US"
 }

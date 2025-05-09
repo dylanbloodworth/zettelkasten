@@ -4,7 +4,9 @@
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "1-inbox",
-  "vimMode": true,
+  "vimMode": false,
   "attachmentFolderPath": "/",
-  "trashOption": "none"
+  "trashOption": "none",
+  "foldHeading": false,
+  "foldIndent": false
 }

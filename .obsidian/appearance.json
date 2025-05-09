@@ -1,7 +1,7 @@
 {
-  "accentColor": "#2c68c9",
-  "theme": "moonstone",
-  "cssTheme": "Nightfox",
+  "accentColor": "#299900",
+  "theme": "obsidian",
+  "cssTheme": "Things",
   "textFontFamily": "Verdana",
   "interfaceFontFamily": "Inter",
   "baseFontSize": 16,
